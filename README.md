@@ -44,8 +44,9 @@ I am a frontend-focused full stack developer and passionate learner from Sri Lan
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,java,spring,laravel,c,cpp,csharp,kotlin,flutter,firebase,mongodb,mysql,oracle,git,docker,figma,photoshop,illustrator,linux,tailwind,vscode,postman&perline=12" />
+  <img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,java,spring,laravel,c,cpp,csharp,kotlin,flutter,firebase,mongodb,mysql,oracle,git,docker,figma,photoshop,illustrator,linux,tailwind,vscode,postman,blender&perline=12" />
 </p>
+
 
 ---
 
